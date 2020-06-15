@@ -16,6 +16,7 @@ using namespace std;
 #include <unistd.h>
 #include <time.h>
 #define port (6666)
+//test git diff
 typedef int type_socket;
 int server_log(char * log_buf);
 void get_time(char* time_buf);
